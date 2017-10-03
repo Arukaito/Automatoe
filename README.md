@@ -8,6 +8,7 @@ Para empezar a utilizarlo se necesita una libreria de dynalab conectada alguna r
 
 ### Pre-Requisitos
 
+Python :snake:
 pywinauto
 
 ```
